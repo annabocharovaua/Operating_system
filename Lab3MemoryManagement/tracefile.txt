@@ -1,0 +1,20 @@
+READ 4 ... okay
+READ 19 ... okay
+WRITE 4044 ... okay
+WRITE 699050 ... page fault
+WRITE 4 ... okay
+WRITE 32768 ... okay
+WRITE 507904 ... okay
+WRITE 524288 ... page fault
+WRITE 540672 ... page fault
+WRITE 557056 ... page fault
+WRITE 573440 ... page fault
+WRITE 589824 ... page fault
+WRITE 606208 ... page fault
+WRITE 622592 ... page fault
+WRITE 638976 ... page fault
+WRITE 622592 ... okay
+WRITE 638976 ... okay
+WRITE 655360 ... page fault
+WRITE 671744 ... page fault
+WRITE 688128 ... okay
